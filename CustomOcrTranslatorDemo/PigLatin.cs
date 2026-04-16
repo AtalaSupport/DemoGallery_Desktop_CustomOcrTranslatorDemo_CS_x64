@@ -19,7 +19,7 @@ using Atalasoft.Imaging.Codec;
 using Atalasoft.Ocr.Tesseract;
 using WinDemoHelperMethods;
 
-namespace PigLatin
+namespace CustomOcrTranslatorDemo
 {
 	/// <summary>
 	/// Summary description for Form1.

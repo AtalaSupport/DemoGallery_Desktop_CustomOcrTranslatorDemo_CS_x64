@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using Atalasoft.Ocr;
 
-namespace PigLatin
+namespace CustomOcrTranslatorDemo
 {
 	/// <summary>
 	/// The PigLatinTranslator class shows how to write a custom translator.  The point is to extend the 
